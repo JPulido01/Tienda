@@ -2,7 +2,7 @@
 const products = [
   { id: 1, name: "Camiseta clásica", price: 19.99, desc: "Algodón suave, disponible en varios colores.", img: "https://i.pinimg.com/736x/7f/f9/1c/7ff91c3189cac89afccc60f02fc2f609.jpg" },
   { id: 2, name: "Taza de cerámica", price: 9.5, desc: "Ideal para café y té.", img: "https://images.unsplash.com/photo-1541167760496-1628856ab772?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=2" },
-  { id: 3, name: "Mochila urbana", price: 49.99, desc: "Espacio para laptop, resistente al agua.", img: "https://images.unsplash.com/photo-1601050690593-3db9e0d1f8bd?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=3" },
+  { id: 3, name: "Mochila urbana", price: 49.99, desc: "Espacio para laptop, resistente al agua.", img: "https://i.pinimg.com/736x/eb/26/cf/eb26cf83675fa068929c42352ab75a58.jpg" },
   { id: 4, name: "Libreta de notas", price: 7.25, desc: "Tapa dura, 120 páginas.", img: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=4" },
   { id: 5, name: "Auriculares", price: 34.99, desc: "Sonido nítido y cómodos.", img: "https://images.unsplash.com/photo-1518449028591-3b03a7e6dca2?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=5" },
   { id: 6, name: "Llavero metálico", price: 4.0, desc: "Pequeño y resistente.", img: "https://images.unsplash.com/photo-1519058086252-4b9e76f9d3aa?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=6" }
