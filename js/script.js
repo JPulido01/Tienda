@@ -5,7 +5,8 @@ const products = [
   { id: 3, name: "Mochila urbana", price: 49.99, desc: "Espacio para laptop, resistente al agua.", img: "https://i.pinimg.com/736x/eb/26/cf/eb26cf83675fa068929c42352ab75a58.jpg" },
   { id: 4, name: "Libreta de notas", price: 7.25, desc: "Tapa dura, 120 páginas.", img: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=4" },
   { id: 5, name: "Auriculares", price: 34.99, desc: "Sonido nítido y cómodos.", img: "https://i.pinimg.com/736x/fe/1b/98/fe1b98f5aee2a63d90fb61fc6114cbd6.jpg" },
-  { id: 6, name: "Llavero metálico", price: 4.0, desc: "Pequeño y resistente.", img: "https://i.pinimg.com/1200x/46/82/ae/4682ae798f5e84c22e73612f4620e0e3.jpg" }
+  { id: 6, name: "Llavero metálico", price: 4.0, desc: "Pequeño y resistente.", img: "https://i.pinimg.com/1200x/46/82/ae/4682ae798f5e84c22e73612f4620e0e3.jpg" },
+  { id: 7, name: "Portatil", price: 1000.0, desc: "Facil de tranportar y efectivo.", img: "https://i.pinimg.com/1200x/46/82/ae/4682ae798f5e84c22e73612f4620e0e3.jpg" }
 ];
 
 const state = {
